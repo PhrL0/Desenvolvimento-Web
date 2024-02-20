@@ -1,27 +1,8 @@
-body {
-    background-image: url("conexoes-de-rede-digital-3d-fundo-moderno.jpg");
-    background-repeat: no-repeat;
-    background-size: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-#icon {
-    position: absolute;
-    left: 37%;
-    top: 50px;
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    margin-left: 5%;
-}
-.caixa {
+.container{
     text-align: center;
-    padding-top: 20%;
-    margin-right: 25%;
-    margin-left: 25%;
+    background-color: blanchedalmond;
+    border-style: solid;
     border-radius: 15px;
-    border-style: groove;
-    background-color: darkblue;
-}
-p{
-    color: antiquewhite;
+    font-size: 20px;
+    padding-bottom: 15px;
 }
